@@ -29,4 +29,4 @@ a Large Language Model (LLM) agent.
 5. Run the app: `streamlit run dashboard.py`
 
 ## 🌐 Live Demo
-[View on Streamlit Cloud](https://your-app-url.streamlit.app)
+[View on Streamlit Cloud](https://water-tracker-theesith.streamlit.app/)
