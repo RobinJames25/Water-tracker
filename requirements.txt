@@ -13,7 +13,7 @@ uvicorn==0.34.2
 
 # --- Database ---
 sqlalchemy==2.0.41
-psycopg2-binary==2.9.10
+psycopg2-binary
 
 # --- CLI Interaction ---
 typer==0.15.4
